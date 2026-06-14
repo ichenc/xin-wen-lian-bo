@@ -2,8 +2,6 @@
 
 爬取自 [cctv央视网](https://tv.cctv.com/), 包准确!
 
-程序开发指南: [DEVELOP.md](./DEVELOP.md)
-
 ## 文字稿目录: 
 
 <!-- INSERT -->
